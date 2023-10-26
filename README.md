@@ -1,13 +1,3 @@
-# 🔥 Responsive Portfolio Website
-
-- Responsive Portfolio Website Using HTML CSS & JavaScript
-- Responsive Error 404 Message Using HTML CSS & JavaScript
-- Responsive Resume / Curriculum Vitae Using HTML CSS & JavaScript
-- Smooth scrolling in each section.
-- Includes a dark and light mode.
-- Developed first with the Mobile First methodology, then for desktop.
-- Compatible with all mobile devices and with a beautiful and pleasant user interface.
-
 
 <div align="center">
   
@@ -21,7 +11,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://twitter.com/stewart_ca8"><img width="32px" alt="Twitter" title="Twitter" src="/Images/twitter.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="mailto:christianstewart5111@gmail.com"><img width="32px" alt="Gmail" title="Gmail" src="/Images/gmail.svg"/></a>
+  <a href="mailto:paulnkingwa34@gmail.com"><img width="32px" alt="Gmail" title="Gmail" src="/Images/gmail.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://codepen.io/thelast22"><img width="32px" alt="Codepen" title="Codepen" src="/Images/codepen.svg"/></a>
 
@@ -47,9 +37,13 @@
   
 </div>
 
-<h1 align="center">Hi 👋, I'm Christian Stewart</h1>
-<h3 align="center">An emerging developer from the Philippines.</h3>
-<p align="center">I am currently an incoming 4th Year Computer Science Student from the University of San Carlos. Focused mainly on creating Web designs and Graphic designs but I am open to Mobile Development projects as well. I have worked with basic HTML, CSS, and JS projects. React, Svelte, & Flutter are my current development choices (a little rusty but I can manage!). Traditional and Digital graphics are within my capabilities.</p>
+<h1 align="center">Hi 👋, I'm Paul Thomas</h1>
+<h3 align="center">An emerging software developer from Tanzania.</h3>
+<p align="center">I am currently a 3rd Year Software Engineering Student from the University of Dodoma.
+                            Focused Mainly on developing Mobile applications(and Games), Web designs and Graphic designs as well as security penetration testing.
+                            I have worked with basic HTML, CSS, and JS projects with Vue, Quasar, Laravel and Django frameworks and GraphQl APIs.
+                            React, React Native, & Flutter are my current development choices. Traditional and
+                            Digital graphics are within my capabilities.</p>
 
 <details>
   <summary>🧑 More about Me!</summary>
