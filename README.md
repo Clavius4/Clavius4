@@ -56,6 +56,8 @@
 
 - 👨‍💻 All of my projects are available on my github and portfolio <a href="https://clavius4.github.io/" target="_blank">here</a>
 
+- 👨‍💻 My CV is <a href="https://github.com/Clavius4/Clavius4/blob/master/assets/pdf/Paul%20Thomas%20CV.pdf" target="_blank">here</a>
+
 - 💬 Ask me about: **UI/UX Design, Product Design, Fullstack Development, and Mobile Development**
 
 - 📫 How to reach me paulnkingwa34@gmail.com**                              <a target="_blank" href="https://clavius4.github.io/Personal-Portfolio-/" class="button button--ghost">
