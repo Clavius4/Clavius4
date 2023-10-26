@@ -13,7 +13,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="mailto:paulnkingwa34@gmail.com"><img width="32px" alt="Gmail" title="Gmail" src="/Images/gmail.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://codepen.io/thelast22"><img width="32px" alt="Codepen" title="Codepen" src="/Images/codepen.svg"/></a>
+  <a href="https://codepen.io/clavius4"><img width="32px" alt="Codepen" title="Codepen" src="/Images/codepen.svg"/></a>
 
 </div>
 
@@ -58,7 +58,8 @@
 
 - 💬 Ask me about: **UI/UX Design, Product Design, Fullstack Development, and Mobile Development**
 
-- 📫 How to reach me: **christianstewart5111@gmail.com**
+- 📫 How to reach me paulnkingwa34@gmail.com**                              <a target="_blank" href="https://clavius4.github.io/Personal-Portfolio-/" class="button button--ghost">
+
 
 </details>
 
@@ -158,20 +159,20 @@
   <h2 align="center">Work Samples</h2>
   <table align="left" cellspacing="0" cellpadding="0" width="100%" style="width:100%;">
     <tr>
-      <td><img align="center" src="Images/1.png" alt="thelast22" /></td>
-      <td><img align="center" src="Images/2.png" alt="thelast22" /></td>
+      <td><img align="center" src="Images/1.png" alt="clavius4" /></td>
+      <td><img align="center" src="Images/2.png" alt="clavius4" /></td>
     </tr>
     <tr>
-      <td><img align="center" src="Images/3.png" alt="thelast22" /></td>
-      <td><img align="center" src="Images/4.png" alt="thelast22" /></td>
+      <td><img align="center" src="Images/3.png" alt="clavius4" /></td>
+      <td><img align="center" src="Images/4.png" alt="clavius4" /></td>
     </tr>
     <tr>
-      <td><img align="center" src="Images/5.png" alt="thelast22" /></td>
-      <td><img align="center" src="Images/6.png" alt="thelast22" /></td>
+      <td><img align="center" src="Images/5.png" alt="clavius4" /></td>
+      <td><img align="center" src="Images/6.png" alt="clavius4" /></td>
     </tr>
     <tr>
-      <td><img align="center" src="Images/7.png" alt="thelast22" /></td>
-      <td><img align="center" src="Images/8.png" alt="thelast22" /></td>
+      <td><img align="center" src="Images/7.png" alt="clavius4" /></td>
+      <td><img align="center" src="Images/8.png" alt="clavius4" /></td>
     </tr>
   </table>
 </div>
