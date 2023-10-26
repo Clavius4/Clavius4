@@ -140,9 +140,9 @@
 <h2 align="center">Personal Stats</h2>
 <div align="center">
   <table align="center" cellspacing="0" cellpadding="0" width="100%" style="width:100%;">
-    <tr>
+<!--     <tr>
       <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=TheLast22&show_icons=true&theme=tokyonight" alt="thelast22" /></td>
-    </tr>
+    </tr> -->
   </table>
   
   <table align="center" cellspacing="0" cellpadding="0" width="100%">
