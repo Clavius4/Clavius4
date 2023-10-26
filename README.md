@@ -54,7 +54,7 @@
 
 - 🤝 I’m looking for help with **Learning about Flutter & React Native**
 
-- 👨‍💻 All of my projects are available on my github and portfolio <a href="https://thelast22.github.io/" target="_blank">here</a>
+- 👨‍💻 All of my projects are available on my github and portfolio <a href="https://clavius4.github.io/" target="_blank">here</a>
 
 - 💬 Ask me about: **UI/UX Design, Product Design, Fullstack Development, and Mobile Development**
 
@@ -124,7 +124,7 @@
     </tr>
     <tr>
       <td><img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white"/></td>
-      <td></td>
+      <td><img src="https://img.shields.io/badge/Django-43B02A?style=for-the-badge&logo=Django&logoColor=green"/></td>
       <td></td>
       <td></td>
     </tr>
