@@ -30,7 +30,7 @@
     <img src="https://img.shields.io/twitter/follow/clavius421?color=informational&logo=twitter&logoColor=white&style=for-the-badge"/>
   </a>
   <a href="https://clavius4.github.io/Personal-Portfolio-/" target="_blank">
-    <img src="https://img.shields.io/website?down_color=red&label=Stewart&?logo=fire&style=for-the-badge&up_color=informational&up_message=Portfolio&url=https%3A%2F%2Fthelast22.github.io%2F"/>
+    <img src="https://img.shields.io/website?down_color=red&label=Clavius4&?logo=fire&style=for-the-badge&up_color=informational&up_message=Portfolio&url=https%3A%2F%2Fthelast22.github.io%2F"/>
   </a>
   
   <h3>Profile Views<br><img alt="visitors counter" src="https://profile-counter.glitch.me/TheLast22/count.svg"></h3>
