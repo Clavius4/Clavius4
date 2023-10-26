@@ -3,17 +3,17 @@
   
   ![Relax GIF](https://github.com/TheLast22/TheLast22/blob/main/Images/Relax.gif)
   
-  <a href="https://www.youtube.com/channel/UCQ1Wu4srK7VvsEzrwzAiskg"><img width="32px" alt="Youtube" title="Youtube" src="/Images/youtube.svg"/></a>
+  <a href="https://www.youtube.com/channel/UCQ1Wu4srK7VvsEzrwzAiskg"><img width="32px" alt="Youtube" title="Youtube" src="assets/img/youtube.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://fb.com//stewart.ca.8"><img width="32px" alt="Facebook" title="Facebook" src="/Images/facebook.svg"/></a>
+  <a href="https://fb.com//stewart.ca.8"><img width="32px" alt="Facebook" title="Facebook" src="assets/img/facebook.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.instagram.com/tianthonyyy"><img width="32px" alt="Instagram" title="Instagram" src="/Images/instagram.svg"/></a>
+  <a href="https://www.instagram.com/tianthonyyy"><img width="32px" alt="Instagram" title="Instagram" src="assets/img/instagram.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/stewart_ca8"><img width="32px" alt="Twitter" title="Twitter" src="/Images/twitter.svg"/></a>
+  <a href="https://twitter.com/stewart_ca8"><img width="32px" alt="Twitter" title="Twitter" src="assets/img/twitter.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="mailto:paulnkingwa34@gmail.com"><img width="32px" alt="Gmail" title="Gmail" src="/Images/gmail.svg"/></a>
+  <a href="mailto:paulnkingwa34@gmail.com"><img width="32px" alt="Gmail" title="Gmail" src="assets/img/gmail.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://codepen.io/clavius4"><img width="32px" alt="Codepen" title="Codepen" src="/Images/codepen.svg"/></a>
+  <a href="https://codepen.io/clavius4"><img width="32px" alt="Codepen" title="Codepen" src="assets/img/codepen.svg"/></a>
 
 </div>
 
@@ -29,7 +29,7 @@
   <a href="https://twitter.com/stewart_ca8" target="_blank">
     <img src="https://img.shields.io/twitter/follow/clavius421?color=informational&logo=twitter&logoColor=white&style=for-the-badge"/>
   </a>
-  <a href="https://thelast22.github.io/" target="_blank">
+  <a href="https://clavius4.github.io/" target="_blank">
     <img src="https://img.shields.io/website?down_color=red&label=Stewart&?logo=fire&style=for-the-badge&up_color=informational&up_message=Portfolio&url=https%3A%2F%2Fthelast22.github.io%2F"/>
   </a>
   
