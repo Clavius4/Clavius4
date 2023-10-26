@@ -26,10 +26,10 @@
   <a href="https://www.youtube.com/channel/UCQ1Wu4srK7VvsEzrwzAiskg" target="_blank">
     <img src="https://img.shields.io/youtube/channel/views/UCQ1Wu4srK7VvsEzrwzAiskg?color=informational&logo=youtube&style=for-the-badge"/>
   </a>
-  <a href="https://twitter.com/stewart_ca8" target="_blank">
+  <a href="https://twitter.com/clavius421" target="_blank">
     <img src="https://img.shields.io/twitter/follow/clavius421?color=informational&logo=twitter&logoColor=white&style=for-the-badge"/>
   </a>
-  <a href="https://clavius4.github.io/" target="_blank">
+  <a href="https://clavius4.github.io/Personal-Portfolio-/" target="_blank">
     <img src="https://img.shields.io/website?down_color=red&label=Stewart&?logo=fire&style=for-the-badge&up_color=informational&up_message=Portfolio&url=https%3A%2F%2Fthelast22.github.io%2F"/>
   </a>
   
