@@ -162,7 +162,7 @@
   <table align="left" cellspacing="0" cellpadding="0" width="100%" style="width:100%;">
     <tr>
       <td><img align="center" src="https://github.com/Clavius4/TICTACTOE-GOLD-EXPO/blob/master/Screenshots/s4.png" alt="clavius4" /></td>
-      <td><img align="center" src="https://github.com/Clavius4/TICTACTOE-GOLD-EXPO/blob/master/Screenshots/s2.png" alt="clavius4" /></td>
+      <td><img align="center" src="https://github.com/Clavius4/TICTACTOE-GOLD-EXPO/blob/master/Screenshots/s3.png" alt="clavius4" /></td>
     </tr>
     <tr>
       <td><img align="center" src="Images/3.png" alt="clavius4" /></td>
