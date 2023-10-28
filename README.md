@@ -54,9 +54,9 @@
 
 - 🤝 I’m looking for help with **Learning about Flutter & React Native**
 
-- 👨‍💻 All of my projects are available on my github and portfolio <a href="https://clavius4.github.io/" target="_blank">here</a>
+- 👨‍💻 All of my projects are available on my github and portfolio <a href="https://github.com/Clavius4/" target="_blank">here</a>
 
-- 👨‍💻 My CV is <a href="https://github.com/Clavius4/Clavius4/blob/master/assets/pdf/Paul%20Thomas%20CV.pdf" target="_blank">here</a>
+- 👨‍💻 My CV is <a href="https://github.com/Clavius4/Clavius4/blob/master/assets/pdf/Paul%20Thomas%20CV-1.pdf" target="_blank">here</a>
 
 - 💬 Ask me about: **UI/UX Design, Product Design, Fullstack Development, and Mobile Development**
 
