@@ -169,8 +169,6 @@
       <td>
      <video controls width="400" height="300">
           <source src="assets/img/foodapp.mp4" type="video/mp4">
-          Your browser does not support the video tag. 
-          <a href="assets/img/foodapp.mp4">Download the video</a> instead.
         </video>
       </td>
       <td><img align="center" src="assets/img/5.png" alt="clavius4" /></td>
