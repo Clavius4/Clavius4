@@ -157,13 +157,13 @@
       <td><img align="center" src="https://github.com/Clavius4/TICTACTOE-GOLD-EXPO/blob/master/Screenshots/s3.png" alt="clavius4" /></td>
     </tr>
 <tr> -->
-      <td><img align="center" src="Images/1.png" alt="clavius4" /></td>
+<!--       <td><img align="center" src="Images/1.png" alt="clavius4" /></td>
       <td><img align="center" src="Images/2.png" alt="clavius4" /></td>
     </tr>
     <tr>
       <td><img align="center" src="Images/3.png" alt="clavius4" /></td>
       <td><img align="center" src="Images/4.png" alt="clavius4" /></td>
-    </tr>
+    </tr> -->
     <tr>
       <td><img align="center" src="assets/img/5.png" alt="clavius4" /></td>
       <td><img align="center" src="assets/img/6.png" alt="clavius4" /></td>
