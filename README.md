@@ -156,6 +156,10 @@
       <td><img align="center" src="https://github.com/Clavius4/TICTACTOE-GOLD-EXPO/blob/master/Screenshots/s4.png" alt="clavius4" /></td>
       <td><img align="center" src="https://github.com/Clavius4/TICTACTOE-GOLD-EXPO/blob/master/Screenshots/s3.png" alt="clavius4" /></td>
     </tr>
+<tr>
+      <td><img align="center" src="Images/1.png" alt="clavius4" /></td>
+      <td><img align="center" src="Images/2.png" alt="clavius4" /></td>
+    </tr>
     <tr>
       <td><img align="center" src="Images/3.png" alt="clavius4" /></td>
       <td><img align="center" src="Images/4.png" alt="clavius4" /></td>
@@ -176,7 +180,7 @@
 
 
 <!--
-**TheLast22/TheLast22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Clavius4/Clavius4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
