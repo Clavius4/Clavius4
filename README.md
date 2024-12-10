@@ -142,18 +142,9 @@
 
 <h2 align="center">Personal Stats</h2>
 <div align="center">
-  <table align="center" cellspacing="0" cellpadding="0" width="100%" style="width:100%;">
-<!--     <tr>
-      <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=TheLast22&show_icons=true&theme=tokyonight" alt="thelast22" /></td>
-    </tr> -->
-  </table>
-  
-  <table align="center" cellspacing="0" cellpadding="0" width="100%">
-    <tr>
-      <td><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheLast22&layout=compact&langs_count=8&theme=tokyonight" alt="thelast22" /></td>
-      <td><img align="center" src="https://streak-stats.demolab.com?user=TheLast22&theme=tokyonight" alt="thelast22" /></td>
-    </tr>
-  </table>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Clavius4&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clavius4&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages"/>
+  <img align="center" src="https://streak-stats.demolab.com?user=Clavius4&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
 </div>
 
 <br>
