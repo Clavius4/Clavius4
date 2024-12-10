@@ -19,9 +19,10 @@
 
 <div align="center">
   
-  ![GitHub last commit](https://img.shields.io/github/last-commit/TheLast22/TheLast22?color=informational&label=Github&logo=github&style=for-the-badge)
-  ![GitHub User's stars](https://img.shields.io/github/stars/TheLast22?label=User%20Stars&logo=github&style=for-the-badge)
-  ![GitHub followers](https://img.shields.io/github/followers/TheLast22?logo=github&style=for-the-badge)
+ ![GitHub last commit](https://img.shields.io/github/last-commit/Clavius4/Clavius4?color=informational&label=Last%20Commit&logo=github&style=for-the-badge)
+  ![GitHub User's stars](https://img.shields.io/github/stars/Clavius4?label=User%20Stars&logo=github&style=for-the-badge)
+  ![GitHub followers](https://img.shields.io/github/followers/Clavius4?logo=github&style=for-the-badge)
+  
   
   <a href="https://www.youtube.com/channel/UCQ1Wu4srK7VvsEzrwzAiskg" target="_blank">
     <img src="https://img.shields.io/youtube/channel/views/UCQ1Wu4srK7VvsEzrwzAiskg?color=informational&logo=youtube&style=for-the-badge"/>
@@ -39,7 +40,7 @@
 
 <h1 align="center">Hi 👋, I'm Paul Thomas</h1>
 <h3 align="center">An emerging software developer from Tanzania.</h3>
-<p align="center">I am currently a 3rd Year Software Engineering Student from the University of Dodoma.
+<p align="center">I am currently a 4th Year Software Engineering Student from the University of Dodoma.
                             Focused Mainly on developing Mobile applications(and Games), Web designs and Graphic designs as well as security penetration testing.
                             I have worked with basic HTML, CSS, and JS projects with Vue, Quasar, Laravel and Django frameworks and GraphQl APIs.
                             React, React Native, & Flutter are my current development choices. Traditional and
@@ -50,9 +51,9 @@
 
 - 🔭 I’m currently on a quest to build **amazing** things
 
-- 🌱 I’m currently learning **Svelte Framework** 🤓
+- 🌱 I’m currently learning **IoT and Blockchain** 🤓
 
-- 🤝 I’m looking for help with **Learning about Flutter & React Native**
+- 🤝 I’m looking for help with **Learning about Iot & Blockchain**
 
 - 👨‍💻 All of my projects are available on my github and portfolio <a href="https://github.com/Clavius4/" target="_blank">here</a>
 
