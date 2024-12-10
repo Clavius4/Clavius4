@@ -165,12 +165,12 @@
       <td><img align="center" src="Images/4.png" alt="clavius4" /></td>
     </tr>
     <tr>
-      <td><img align="center" src="Images/5.png" alt="clavius4" /></td>
-      <td><img align="center" src="Images/6.png" alt="clavius4" /></td>
+      <td><img align="center" src="assets/img/5.png" alt="clavius4" /></td>
+      <td><img align="center" src="assets/img/6.png" alt="clavius4" /></td>
     </tr>
     <tr>
-      <td><img align="center" src="Images/7.png" alt="clavius4" /></td>
-      <td><img align="center" src="Images/8.png" alt="clavius4" /></td>
+      <td><img align="center" src="assets/img/7.png" alt="clavius4" /></td>
+      <td><img align="center" src="assets/img/8.png" alt="clavius4" /></td>
     </tr>
   </table>
 </div>
