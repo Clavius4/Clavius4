@@ -167,10 +167,11 @@
     </tr>
          <tr>
       <td>
-     <iframe 
-          src="https://github-production-user-asset-6210df.s3.amazonaws.com/108498811/273431271-b276696e-aafe-40e4-8134-b53991e654d6.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241210%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241210T090815Z&X-Amz-Expires=300&X-Amz-Signature=2260fe0ee41ab8ffcc6e0f662ac06bdd3db9b3768afb66ed46e5a829e548e258&X-Amz-SignedHeaders=host" 
-          width="400" height="300" frameborder="0" allowfullscreen>
-        </iframe>
+        <video controls width="400" height="300">
+          <source src="https://github-production-user-asset-6210df.s3.amazonaws.com/108498811/273431271-b276696e-aafe-40e4-8134-b53991e654d6.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241210%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241210T090815Z&X-Amz-Expires=300&X-Amz-Signature=2260fe0ee41ab8ffcc6e0f662ac06bdd3db9b3768afb66ed46e5a829e548e258&X-Amz-SignedHeaders=host" type="video/mp4">
+          Your browser does not support the video tag. 
+          <a href="https://github-production-user-asset-6210df.s3.amazonaws.com/108498811/273431271-b276696e-aafe-40e4-8134-b53991e654d6.mp4">Download the video</a> instead.
+        </video>
       </td>
       <td><img align="center" src="assets/img/5.png" alt="clavius4" /></td>
     </tr>
