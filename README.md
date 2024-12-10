@@ -167,8 +167,7 @@
         <tr>
       <td>
         <video controls width="400">
-          <source src="https://private-user-images.githubusercontent.com/108498811/273431271-b276696e-aafe-40e4-8134-b53991e654d6.mp4?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzM4MTgxOTgsIm5iZiI6MTczMzgxNzg5OCwicGF0aCI6Ii8xMDg0OTg4MTEvMjczNDMxMjcxLWIyNzY2OTZlLWFhZmUtNDBlNC04MTM0LWI1Mzk5MWU2NTRkNi5tcDQ_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMjEwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTIxMFQwODA0NThaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0xMmI3MWM3YjkxNTFlYmQxYmNkZjZkM2VkZmE1MmRkYTIzOTg4Y2ZiMDQ3Y2NmYmQ3NjYxZGExZjFjZWZmYjRlJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.I9kdBUsebbhXuxJtGZI06uv_BYfCdercVXjSWlkJWUQ" type="video/mp4">
-          Your browser does not support the video tag.
+          <source src="">
         </video>
       </td>
       <td><img align="center" src="assets/img/5.png" alt="clavius4" /></td>
