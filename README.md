@@ -168,7 +168,7 @@
          <tr>
       <td>
      <video controls width="400" height="300">
-          <source src="assets/img/foodapp.mp4" type="video/mp4">
+          <source src="https://github.com/Clavius4/Clavius4/blob/master/assets/img/foodapp.mp4" type="video/mp4">
         </video>
       </td>
       <td><img align="center" src="assets/img/5.png" alt="clavius4" /></td>
