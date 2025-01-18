@@ -207,11 +207,7 @@
   <!-- Video added to the work samples -->
   <tr>
     <td>
-      <video autoplay muted loop controls width="400" height="300">
-        <source src="https://private-user-images.githubusercontent.com/67793598/268442671-3fd21809-5f38-4bd8-ab03-487556c4e915.mp4?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzcyMzc1NjUsIm5iZiI6MTczNzIzNzI2NSwicGF0aCI6Ii82Nzc5MzU5OC8yNjg0NDI2NzEtM2ZkMjE4MDktNWYzOC00YmQ4LWFiMDMtNDg3NTU2YzRlOTE1Lm1wND9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAxMTglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMTE4VDIxNTQyNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTUxMjJjMTY3YmZjOWI1ZTU2OTIzZTI5NjczNDc3OWRiNmQwYWQzMjcyOGM1NzU5YjNjNjJjNzMyMWZhZDBkMGMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.2e6BjXpRKcUh-RRicf74gI_o-FpUkyhk9keir0azA7U
-" type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
+      <img align="center" src="https://github.com/Tauseef-Hilal/WhatsUp/blob/main/screenshots/emoji.png?raw=true" alt="clavius4" />
     </td>
     <td>
       <img align="center" src="assets/img/5.png" alt="clavius4" />
