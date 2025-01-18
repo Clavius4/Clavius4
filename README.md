@@ -42,14 +42,14 @@
 <h3 align="center">An emerging software developer from Tanzania.</h3>
 <p align="center">I am currently a 4th Year Software Engineering Student from the University of Dodoma.
                             Focused Mainly on developing Mobile applications(and Games), Web designs and Graphic designs as well as security penetration testing.
-                            I have worked with basic HTML, CSS, and JS projects with Vue, Quasar, Laravel and Django frameworks and GraphQl APIs.
-                            React, React Native, & Flutter are my current development choices. Traditional and
-                            Digital graphics are within my capabilities.</p>
+                            I have worked with basic HTML, CSS, and JS projects with Vue, Angular, Quasar, Laravel, Spring Boot, Nestjs and Django frameworks for both RESTFUL and GraphQl APIs.
+                            React, React Native, Swift UI, Objective-C & Flutter are my current development choices. Traditional and
+                            Digital graphics are within my capabilities. Doing Cloud engineering with skills for Huawei cloud, AWS and MS Azure. Competent in CI/CD pipeling with Docker containerization and K8s orchestration i.e full devsecops engineer. Perfection in Linux system administration in all distros more predominantly in RedHat(RockyLinux), Debian and ArchLinux, server administration with all OS familiarities(Linux,windows and macos servers), Database adminstration for both sql, nosql and graph databases,network administration. As well best at deployments botth in Mobile App stores i.e Apple Store, Google Play Store and Huawei App store with experience in their respective consoles</p>
 
 <details>
   <summary>🧑 More about Me!</summary>
 
-- 🔭 I’m currently on a quest to build **amazing** things
+- 🔭 I’m currently on a quest to build **amazing** things. One of them is a **USSD application service** in both Django, Spring Boot and Nodejs/Expressjs 
 
 - 🌱 I’m currently learning **IoT and Blockchain** 🤓
 
@@ -59,7 +59,7 @@
 
 - 👨‍💻 My CV is <a href="https://github.com/Clavius4/Clavius4/blob/master/assets/pdf/Paul%20Thomas%20CV-1.pdf" target="_blank">here</a>
 
-- 💬 Ask me about: **UI/UX Design, Product Design, Fullstack Development, and Mobile Development**
+- 💬 Ask me about: **Mobile Apps Development, UI/UX Design, Product Design, Fullstack Development, Cloud Engineering, DevSecOps, System Administration **
 
 - 📫 How to reach me paulnkingwa34@gmail.com**<a target="_blank" href="https://clavius4.github.io/Personal-Portfolio-/" class="button button--ghost">
 
