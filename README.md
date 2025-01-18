@@ -182,14 +182,29 @@
 
 <br>
 
-<table align="left" cellspacing="0" cellpadding="0" width="100%" style="width:100%;">
-  <!-- Video added to the work samples -->
+<div align="center">
+  <h2 align="center">Work Samples</h2>
+  <table align="left" cellspacing="0" cellpadding="0" width="100%" style="width:100%;">
+    <!-- Newly added projects -->
+    <tr>
+      <td><img align="center" src="https://user-images.githubusercontent.com/88594066/209876949-95aa599c-ff87-4d5f-994f-4c169d21ac87.png" alt="Project 1 Screenshot 1" /></td>
+      <td><img align="center" src="https://user-images.githubusercontent.com/88594066/209876960-a76f4e5f-c5bd-40f0-9520-1ab2b72e18d0.png" alt="Project 1 Screenshot 2" /></td>
+    </tr>
+    <tr>
+      <td><img align="center" src="https://user-images.githubusercontent.com/88594066/209877005-6a76bb27-6975-486f-a16a-dbe51df504f2.png" alt="Project 1 Screenshot 3" /></td>
+      <td><img align="center" src="https://user-images.githubusercontent.com/88594066/209877026-6ab7361c-52c3-4911-8432-23f93b0241f5.png" alt="Project 1 Screenshot 4" /></td>
+    </tr>
+    <tr>
+      <td><img align="center" src="https://github.com/rasmuslos/AmpFin/blob/main/Screenshots/Library%20(iOS).png?raw=true" alt="Project 2 Library Screenshot" /></td>
+      <td><img align="center" src="https://github.com/rasmuslos/AmpFin/blob/main/Screenshots/Album%20(iOS).png?raw=true" alt="Project 2 Album Screenshot" /></td>
+    </tr>
+    <tr>
+      <td><img align="center" src="https://github.com/rasmuslos/AmpFin/blob/main/Screenshots/Player%20(iOS).png" alt="Project 2 Player Screenshot" /></td>
+      <td><img align="center" src="https://github.com/rasmuslos/AmpFin/blob/main/Screenshots/Lyrics%20(iOS).png?raw=true" alt="Project 2 Lyrics Screenshot" /></td>
+    </tr>
   <tr>
     <td>
-      <video autoplay muted loop controls width="400" height="300">
-        <source src="https://private-user-images.githubusercontent.com/67793598/268442671-3fd21809-5f38-4bd8-ab03-487556c4e915.mp4?jwt=..." type="video/mp4">
-        Your browser does not support the video tag.
-      </video>
+      <img />
     </td>
     <td>
       <img align="center" src="assets/img/5.png" alt="clavius4" />
@@ -214,4 +229,7 @@
     <td><img align="center" src="assets/img/8.png" alt="clavius4" /></td>
   </tr>
 </table>
+
+</div>
+
 
