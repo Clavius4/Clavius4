@@ -43,7 +43,7 @@
 ---
 
 <p align="center">
-  I am currently a **4th Year Software Engineering Student** at the **University of Dodoma**.
+  I am currently a 4th Year Software Engineering Student at the University of Dodoma.
 </p>
 
 <p align="center">
@@ -94,7 +94,7 @@
 ---
 
 <p align="center">
-  I am passionate about delivering **high-quality software solutions** and committed to continuous learning and growth in the field of software development.
+  I am passionate about delivering high-quality software solutions and committed to continuous learning and growth in the field of software development.
 </p>
 
 
@@ -119,12 +119,11 @@
 </details>
 
 <br>
-
 <h2 align="center">Tech Stack</h2>
 <div align="center"> 
   <table align="center" cellspacing="0" cellpadding="0" width="100%">
     <tr>
-      <th>Framework</th>
+      <th>Frameworks</th>
       <th>Library</th>
       <th>Backend</th>
       <th>Design</th>
@@ -132,72 +131,54 @@
     <tr>
       <td><img src="https://img.shields.io/badge/Robot%20Framework-000000?style=for-the-badge&logo=robot-framework&logoColor=white"/></td>
       <td><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></td>
-      <td><img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/></td>
-      <td><img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white"/></td>
+      <td><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/></td>
+      <td><img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white"/></td>
     </tr>
     <tr>
       <td><img src="https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white"/></td>
-      <td><img src="https://img.shields.io/badge/NuGet-004880?style=for-the-badge&logo=nuget&logoColor=white"/></td>
-      <td><img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=white"/></td>
-      <td><img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white"/></td>
+      <td><img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"/></td>
+      <td><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"/></td>
+      <td><img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white"/></td>
     </tr>
     <tr>
-      <td><img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></td>
-      <td><img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"/></td>
-      <td><img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white"/></td>
-      <td><img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/></td>
+      <td><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/></td>
+      <td><img src="https://img.shields.io/badge/Font%20Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white"/></td>
+      <td><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/></td>
+      <td><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/></td>
     </tr>
     <tr>
       <td><img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"/></td>
-      <td><img src="https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white"/></td>
-      <td><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/></td>
-      <td><img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/></td>
-    </tr>
-    <tr>
-      <td><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"></td>
-      <td><img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white"/></td>
-      <td><</td>
-      <td><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=blue"/></td>
-    </tr>
-    <tr>
-      <td><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/></td>
-      <td><img src="https://img.shields.io/badge/pypi-3775A9?style=for-the-badge&logo=pypi&logoColor=white"/></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td><img src="https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white"/></td>
       <td><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/></td>
-      <td></td>
-      <td></td>
+      <td><img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white"/></td>
+      <td><img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/></td>
     </tr>
     <tr>
-      <td><img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/></td>
+      <td><img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></td>
+      <td><img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white"/></td>
+      <td><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"/></td>
+      <td><img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white"/></td>
+    </tr>
+    <tr>
+      <td><img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/></td>
       <td><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/></td>
-      <td></td>
-      <td></td>
+      <td><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/></td>
+      <td><img src="https://img.shields.io/badge/Sketch-F7B500?style=for-the-badge&logo=sketch&logoColor=white"/></td>
     </tr>
     <tr>
-      <td><img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white"/></td>
-      <td><img src="https://img.shields.io/badge/Django-43B02A?style=for-the-badge&logo=Django&logoColor=green"/></td>
-      <td></td>
-      <td></td>
+      <td><img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/></td>
+      <td><img src="https://img.shields.io/badge/Chakra%20UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white"/></td>
+      <td><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/></td>
+      <td><img src="https://img.shields.io/badge/Inkscape-0C97D6?style=for-the-badge&logo=inkscape&logoColor=white"/></td>
     </tr>
     <tr>
-      <td><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td><img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/></td>
+      <td><img src="https://img.shields.io/badge/PyPI-3775A9?style=for-the-badge&logo=pypi&logoColor=white"/></td>
+      <td><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/></td>
+      <td><img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white"/></td>
     </tr>
   </table>
 </div>
 
-<h2 align="center">Personal Stats</h2>
-<div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Clavius4&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clavius4&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages"/>
-  <img align="center" src="https://streak-stats.demolab.com?user=Clavius4&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
-</div>
 
 <br>
 
