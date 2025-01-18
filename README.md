@@ -37,14 +37,66 @@
   <h3>Profile Views<br><img alt="visitors counter" src="https://profile-counter.glitch.me/TheLast22/count.svg"></h3>
   
 </div>
+<h1 align="center">Hi 👋, I'm Paul Nkingwa Thomas</h1>
+<h3 align="center">An Emerging Software Developer from Tanzania</h3>
 
-<h1 align="center">Hi 👋, I'm Paul Thomas</h1>
-<h3 align="center">An emerging software developer from Tanzania.</h3>
-<p align="center">I am currently a 4th Year Software Engineering Student from the University of Dodoma.
-                            Focused Mainly on developing Mobile applications(and Games), Web designs and Graphic designs as well as security penetration testing.
-                            I have worked with basic HTML, CSS, and JS projects with Vue, Angular, Quasar, Laravel, Spring Boot, Nestjs and Django frameworks for both RESTFUL and GraphQl APIs.
-                            React, React Native, Swift UI, Objective-C & Flutter are my current development choices. Traditional and
-                            Digital graphics are within my capabilities. Doing Cloud engineering with skills for Huawei cloud, AWS and MS Azure. Competent in CI/CD pipeling with Docker containerization and K8s orchestration i.e full devsecops engineer. Perfection in Linux system administration in all distros more predominantly in RedHat(RockyLinux), Debian and ArchLinux, server administration with all OS familiarities(Linux,windows and macos servers), Database adminstration for both sql, nosql and graph databases,network administration. As well best at deployments botth in Mobile App stores i.e Apple Store, Google Play Store and Huawei App store with experience in their respective consoles</p>
+---
+
+<p align="center">
+  I am currently a **4th Year Software Engineering Student** at the **University of Dodoma**.
+</p>
+
+<p align="center">
+  My main focus is on:
+</p>
+
+- **Mobile Application Development (and Games): Native and Cross-Platform**
+- **Web Design(and Development) and Graphic Design**
+- **Desktop Apps Development: Native and Cross-Platform**
+- **Security Penetration Testing**
+- **Cloud and DevSecOps Engineering**
+- **Linux and Windows System Administration**
+- **System Designs and architectures(prominent in MVVM, MVC, MVP and MVI)**
+- **Cloud Computing, Edge Computing, Distributed Computing and Databases**
+- **AI/ML, Data Science, Data Mining and WareHousing**
+
+---
+
+### 🛠 **Technical Skills**
+- **Frontend Development**: HTML, CSS, JavaScript with frameworks like **Vue**, **Angular**, **Quasar**, and **React**.
+- **Backend Development**: Experience with **Spring Boot**, **Django**, **NestJS**, and **Laravel** for **RESTful** and **GraphQL APIs**.
+- **Mobile Development**: Expertise in **Flutter**, **Swift UI**, **Objective-C**, and  **React Native**.
+- **Graphic Design**: Skilled in both **Traditional** and **Digital Graphics**.
+
+---
+
+### ☁ **Cloud Engineering**
+- Hands-on experience with **Huawei Cloud**, **AWS**, and **Microsoft Azure**.
+- Skilled in **CI/CD pipelines** with **Docker** and **Kubernetes (K8s)** for DevSecOps.
+
+---
+
+### 🖥 **System Administration**
+- **Linux Expertise**: Proficient in all major distros, including **RedHat (RockyLinux)**, **Debian**, and **ArchLinux**.
+- **Server Administration**: Familiar with **Linux**, **Windows**, and **macOS servers**.
+- **Database Administration**: Competent with **SQL**, **NoSQL**, and **Graph Databases**.
+- **Network Administration**: Advanced capabilities in network management and security.
+
+---
+
+### 📱 **Mobile App Deployment**
+- Experienced with deployments to:
+  - **Apple App Store**
+  - **Google Play Store**
+  - **Huawei App Store**
+- Proficient in using their respective developer consoles for smooth releases.
+
+---
+
+<p align="center">
+  I am passionate about delivering **high-quality software solutions** and committed to continuous learning and growth in the field of software development.
+</p>
+
 
 <details>
   <summary>🧑 More about Me!</summary>
