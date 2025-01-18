@@ -184,53 +184,42 @@
 
 <div align="center">
   <h2 align="center">Work Samples</h2>
-  <table align="left" cellspacing="0" cellpadding="0" width="100%" style="width:100%;">
-    <!-- Newly added projects -->
+  <table align="center" cellspacing="10" cellpadding="10" width="100%" style="width:100%; table-layout: fixed; text-align: center;">
     <tr>
-      <td><img align="center" src="https://user-images.githubusercontent.com/88594066/209876949-95aa599c-ff87-4d5f-994f-4c169d21ac87.png" alt="Project 1 Screenshot 1" /></td>
-      <td><img align="center" src="https://user-images.githubusercontent.com/88594066/209876960-a76f4e5f-c5bd-40f0-9520-1ab2b72e18d0.png" alt="Project 1 Screenshot 2" /></td>
+      <td><img src="https://user-images.githubusercontent.com/88594066/209876949-95aa599c-ff87-4d5f-994f-4c169d21ac87.png" alt="Project 1 Screenshot 1" width="300" /></td>
+      <td><img src="https://user-images.githubusercontent.com/88594066/209876960-a76f4e5f-c5bd-40f0-9520-1ab2b72e18d0.png" alt="Project 1 Screenshot 2" width="300" /></td>
     </tr>
     <tr>
-      <td><img align="center" src="https://user-images.githubusercontent.com/88594066/209877005-6a76bb27-6975-486f-a16a-dbe51df504f2.png" alt="Project 1 Screenshot 3" /></td>
-      <td><img align="center" src="https://user-images.githubusercontent.com/88594066/209877026-6ab7361c-52c3-4911-8432-23f93b0241f5.png" alt="Project 1 Screenshot 4" /></td>
+      <td><img src="https://user-images.githubusercontent.com/88594066/209877005-6a76bb27-6975-486f-a16a-dbe51df504f2.png" alt="Project 1 Screenshot 3" width="300" /></td>
+      <td><img src="https://user-images.githubusercontent.com/88594066/209877026-6ab7361c-52c3-4911-8432-23f93b0241f5.png" alt="Project 1 Screenshot 4" width="300" /></td>
     </tr>
     <tr>
-      <td><img align="center" src="https://github.com/rasmuslos/AmpFin/blob/main/Screenshots/Library%20(iOS).png?raw=true" alt="Project 2 Library Screenshot" /></td>
-      <td><img align="center" src="https://github.com/rasmuslos/AmpFin/blob/main/Screenshots/Album%20(iOS).png?raw=true" alt="Project 2 Album Screenshot" /></td>
+      <td><img src="https://github.com/rasmuslos/AmpFin/blob/main/Screenshots/Library%20(iOS).png?raw=true" alt="Project 2 Library Screenshot" width="300" /></td>
+      <td><img src="https://github.com/rasmuslos/AmpFin/blob/main/Screenshots/Album%20(iOS).png?raw=true" alt="Project 2 Album Screenshot" width="300" /></td>
     </tr>
     <tr>
-      <td><img align="center" src="https://github.com/rasmuslos/AmpFin/blob/main/Screenshots/Player%20(iOS).png" alt="Project 2 Player Screenshot" /></td>
-      <td><img align="center" src="https://github.com/rasmuslos/AmpFin/blob/main/Screenshots/Lyrics%20(iOS).png?raw=true" alt="Project 2 Lyrics Screenshot" /></td>
+      <td><img src="https://github.com/rasmuslos/AmpFin/blob/main/Screenshots/Player%20(iOS).png" alt="Project 2 Player Screenshot" width="300" /></td>
+      <td><img src="https://github.com/rasmuslos/AmpFin/blob/main/Screenshots/Lyrics%20(iOS).png?raw=true" alt="Project 2 Lyrics Screenshot" width="300" /></td>
     </tr>
-
-<table align="left" cellspacing="0" cellpadding="0" width="100%" style="width:100%;">
-  <!-- Video added to the work samples -->
-  <tr>
-    <td>
-      <img align="center" src="https://github.com/Tauseef-Hilal/WhatsUp/blob/main/screenshots/emoji.png?raw=true" alt="clavius4" />
-    </td>
-    <td>
-      <img align="center" src="assets/img/5.png" alt="clavius4" />
-    </td>
-  </tr>
-
-  <!-- Existing work samples -->
-  <tr>
-    <td><img align="center" src="assets/img/1.png" alt="clavius4" /></td>
-    <td><img align="center" src="assets/img/2.png" alt="clavius4" /></td>
-  </tr>
-  <tr>
-    <td><img align="center" src="assets/img/3.png" alt="clavius4" /></td>
-    <td><img align="center" src="assets/img/4.png" alt="clavius4" /></td>
-  </tr>
-  <tr>
-    <td><img align="center" src="assets/img/5.png" alt="clavius4" /></td>
-    <td><img align="center" src="assets/img/6.png" alt="clavius4" /></td>
-  </tr>
-  <tr>
-    <td><img align="center" src="assets/img/7.png" alt="clavius4" /></td>
-    <td><img align="center" src="assets/img/8.png" alt="clavius4" /></td>
-  </tr>
-</table>
-
+    <tr>
+      <td><img src="https://github.com/Tauseef-Hilal/WhatsUp/blob/main/screenshots/emoji.png?raw=true" alt="WhatsUp Emoji Screenshot" width="300" /></td>
+      <td><img src="assets/img/5.png" alt="Clavius4 Screenshot" width="300" /></td>
+    </tr>
+    <tr>
+      <td><img src="assets/img/1.png" alt="Work Sample 1" width="300" /></td>
+      <td><img src="assets/img/2.png" alt="Work Sample 2" width="300" /></td>
+    </tr>
+    <tr>
+      <td><img src="assets/img/3.png" alt="Work Sample 3" width="300" /></td>
+      <td><img src="assets/img/4.png" alt="Work Sample 4" width="300" /></td>
+    </tr>
+    <tr>
+      <td><img src="assets/img/5.png" alt="Work Sample 5" width="300" /></td>
+      <td><img src="assets/img/6.png" alt="Work Sample 6" width="300" /></td>
+    </tr>
+    <tr>
+      <td><img src="assets/img/7.png" alt="Work Sample 7" width="300" /></td>
+      <td><img src="assets/img/8.png" alt="Work Sample 8" width="300" /></td>
+    </tr>
+  </table>
 </div>
