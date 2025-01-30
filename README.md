@@ -184,17 +184,10 @@
 <div align="center">
   <table align="center" cellspacing="0" cellpadding="0" width="100%" style="width:100%;">
     <tr>
-      <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=TheLastcs&show_icons=true&theme=tokyonight" alt="thelast22" /></td>
+      <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=TheLastcs&show_icons=true&theme=tokyonight" alt="Clavius4" /></td>
     </tr>
   </table>
-  
-  <table align="center" cellspacing="0" cellpadding="0" width="100%">
-    <tr>
-      <td><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheLastcs&layout=compact&langs_count=8&theme=tokyonight" alt="thelast22" /></td>
-<!--       <td><img align="center" src="https://streak-stats.demolab.com?user=TheLastcs&theme=tokyonight" alt="thelast22" /></td> -->
-    </tr>
-  </table>
-</div>
+  </div>
 
 <br>
 
