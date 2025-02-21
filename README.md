@@ -184,7 +184,7 @@
 <div align="center">
   <table align="center" cellspacing="0" cellpadding="0" width="100%" style="width:100%;">
     <tr>
-      <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=TheLastcs&show_icons=true&theme=tokyonight" alt="Clavius4" /></td>
+      <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=Clavius4&show_icons=true&theme=tokyonight" alt="Clavius4" /></td>
     </tr>
   </table>
   </div>
