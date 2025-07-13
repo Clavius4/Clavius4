@@ -249,4 +249,20 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=Clavius4&theme=tokyonight)
   
 </div>
+<div align="center">
+
+![GitHub last commit](https://img.shields.io/github/last-commit/Clavius4/Clavius4?color=informational&label=Last%20Commit&logo=github&style=for-the-badge)
+![GitHub User's stars](https://img.shields.io/github/stars/Clavius4?label=User%20Stars&logo=github&style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/Clavius4?logo=github&style=for-the-badge)
+
+<a href="https://twitter.com/clavius421" target="_blank">
+<img src="https://img.shields.io/twitter/follow/clavius421?color=informational&logo=twitter&logoColor=white&style=for-the-badge"/>
+</a>
+<a href="https://clavius4.github.io/Personal-Portfolio-/" target="_blank">
+<img src="https://img.shields.io/website?down_color=red&label=Clavius4&?logo=fire&style=for-the-badge&up_color=informational&up_message=Portfolio&url=https%3A%2F%2Fthelast22.github.io%2F"/>
+</a>
+
+<h3>Profile Views<br><img alt="visitors counter" src="https://profile-counter.glitch.me/TheLast22/count.svg"></h3>
+
+</div>
 
