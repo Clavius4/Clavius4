@@ -251,3 +251,12 @@
 </div>
 
 
+---
+
+## 🏅 Achievements
+- 🚀 Built Tanzanite OS 🇹🇿 — a localized Linux-based OS for Tanzania.
+- 🏆 Developed & deployed multiple production-ready mobile apps on Google Play & App Store.
+- 🗣️ Spoke at local tech meetups on DevSecOps & Cloud Architectures.
+- 💡 Launched a USSD microservice stack with Spring Boot, Django & NodeJS.
+
+---
