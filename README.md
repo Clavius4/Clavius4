@@ -43,7 +43,7 @@
 ---
 
 <p align="center">
-  I am a Software Engineer graduate at the University of Dodoma.
+  I am a Software Engineering graduate at the University of Dodoma.
 </p>
 
 <p align="center">
