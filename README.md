@@ -43,7 +43,7 @@
 ---
 
 <p align="center">
-  I am currently a 4th Year Software Engineering Student at the University of Dodoma.
+  I am a Software Engineer graduate at the University of Dodoma.
 </p>
 
 <p align="center">
