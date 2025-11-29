@@ -1,19 +1,18 @@
-
 <div align="center">
   
   ![Relax GIF](https://github.com/TheLast22/TheLast22/blob/main/Images/Relax.gif)
   
-  <a href="https://www.youtube.com/channel/UCQ1Wu4srK7VvsEzrwzAiskg"><img width="32px" alt="Youtube" title="Youtube" src="assets/img/youtube.svg"/></a>
+  <a href="https://www.youtube.com/channel/UCQ1Wu4srK7VvsEzrwzAiskg"><img width="32px" alt="Youtube" title="Youtube" src="https://raw.githubusercontent.com/Clavius4/Clavius4/master/assets/img/youtube.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://fb.com//stewart.ca.8"><img width="32px" alt="Facebook" title="Facebook" src="assets/img/facebook.svg"/></a>
+  <a href="https://fb.com//stewart.ca.8"><img width="32px" alt="Facebook" title="Facebook" src="https://raw.githubusercontent.com/Clavius4/Clavius4/master/assets/img/facebook.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.instagram.com/tianthonyyy"><img width="32px" alt="Instagram" title="Instagram" src="assets/img/instagram.svg"/></a>
+  <a href="https://www.instagram.com/tianthonyyy"><img width="32px" alt="Instagram" title="Instagram" src="https://raw.githubusercontent.com/Clavius4/Clavius4/master/assets/img/instagram.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/stewart_ca8"><img width="32px" alt="Twitter" title="Twitter" src="assets/img/twitter.svg"/></a>
+  <a href="https://twitter.com/stewart_ca8"><img width="32px" alt="Twitter" title="Twitter" src="https://raw.githubusercontent.com/Clavius4/Clavius4/master/assets/img/twitter.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="mailto:paulnkingwa34@gmail.com"><img width="32px" alt="Gmail" title="Gmail" src="assets/img/gmail.svg"/></a>
+  <a href="mailto:paulnkingwa34@gmail.com"><img width="32px" alt="Gmail" title="Gmail" src="https://raw.githubusercontent.com/Clavius4/Clavius4/master/assets/img/gmail.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://codepen.io/clavius4"><img width="32px" alt="Codepen" title="Codepen" src="assets/img/codepen.svg"/></a>
+  <a href="https://codepen.io/clavius4"><img width="32px" alt="Codepen" title="Codepen" src="https://raw.githubusercontent.com/Clavius4/Clavius4/master/assets/img/codepen.svg"/></a>
 
 </div>
 
@@ -31,12 +30,13 @@
     <img src="https://img.shields.io/twitter/follow/clavius421?color=informational&logo=twitter&logoColor=white&style=for-the-badge"/>
   </a>
   <a href="https://clavius4.github.io/Personal-Portfolio-/" target="_blank">
-    <img src="https://img.shields.io/website?down_color=red&label=Clavius4&?logo=fire&style=for-the-badge&up_color=informational&up_message=Portfolio&url=https%3A%2F%2Fthelast22.github.io%2F"/>
+    <img src="https://img.shields.io/website?down_color=red&label=Clavius4&?logo=fire&style=for-the-badge&up_color=informational&up_message=Portfolio&url=https%3A%2F%2Fclavius4.github.io%2FPersonal-Portfolio-%2F"/>
   </a>
   
-  <h3>Profile Views<br><img alt="visitors counter" src="https://profile-counter.glitch.me/TheLast22/count.svg"></h3>
+  <h3>Profile Views<br><img alt="visitors counter" src="https://profile-counter.glitch.me/Clavius4/count.svg"></h3>
   
 </div>
+
 <h1 align="center">Hi 👋, I'm Paul Nkingwa Thomas</h1>
 <h3 align="center">An Emerging Software Developer from Tanzania</h3>
 
@@ -97,15 +97,14 @@
   I am passionate about delivering high-quality software solutions and committed to continuous learning and growth in the field of software development.
 </p>
 
-
 <details>
   <summary>🧑 More about Me!</summary>
 
-- 🔭 I’m currently on a quest to build **amazing** things. One of them is a **USSD application service** in both Django, Spring Boot and Nodejs/Expressjs 
+- 🔭 I'm currently on a quest to build **amazing** things. One of them is a **USSD application service** in both Django, Spring Boot and Nodejs/Expressjs 
 
-- 🌱 I’m currently learning **IoT and Blockchain** 🤓
+- 🌱 I'm currently learning **IoT and Blockchain** 🤓
 
-- 🤝 I’m looking for help with **Learning about Iot & Blockchain**
+- 🤝 I'm looking for help with **Learning about Iot & Blockchain**
 
 - 👨‍💻 All of my projects are available on my github and portfolio <a href="https://github.com/Clavius4/" target="_blank">here</a>
 
@@ -113,12 +112,12 @@
 
 - 💬 Ask me about: **Mobile Apps Development, UI/UX Design, Product Design, Fullstack Development, Cloud Engineering, DevSecOps, System Administration **
 
-- 📫 How to reach me paulnkingwa34@gmail.com**<a target="_blank" href="https://clavius4.github.io/Personal-Portfolio-/" class="button button--ghost">
-
+- 📫 How to reach me **paulnkingwa34@gmail.com**
 
 </details>
 
 <br>
+
 <h2 align="center">Tech Stack</h2>
 <div align="center"> 
   <table align="center" cellspacing="0" cellpadding="0" width="100%">
@@ -178,80 +177,45 @@
     </tr>
   </table>
 </div>
+
 <br>
 
 <h2 align="center">Personal Stats</h2>
 <div align="center">
-  <table align="center" cellspacing="0" cellpadding="0" width="100%" style="width:100%;">
-    <tr>
-      <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=Clavius4&show_icons=true&theme=tokyonight" alt="Clavius4" /></td>
-    </tr>
-  </table>
-  </div>
+  
+  ![GitHub Streak](https://streak-stats.demolab.com?user=Clavius4&theme=tokyonight)
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Clavius4&show_icons=true&theme=tokyonight)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Clavius4&layout=compact&theme=tokyonight)
+  ![trophy](https://github-profile-trophy.vercel.app/?username=Clavius4&theme=tokyonight)
+
+</div>
 
 <br>
 
+<h2 align="center">Work Samples</h2>
 <div align="center">
-  <h2 align="center">Work Samples</h2>
-  <table align="left" cellspacing="0" cellpadding="0" width="100%" style="width:100%;">
+  <table align="center" cellspacing="10" cellpadding="10">
     <!-- Newly added projects -->
     <tr>
-      <td><img align="center" src="https://user-images.githubusercontent.com/88594066/209876949-95aa599c-ff87-4d5f-994f-4c169d21ac87.png" alt="Project 1 Screenshot 1" /></td>
-      <td><img align="center" src="https://user-images.githubusercontent.com/88594066/209876960-a76f4e5f-c5bd-40f0-9520-1ab2b72e18d0.png" alt="Project 1 Screenshot 2" /></td>
+      <td><img width="300" src="https://user-images.githubusercontent.com/88594066/209876949-95aa599c-ff87-4d5f-994f-4c169d21ac87.png" alt="Project 1 Screenshot 1" /></td>
+      <td><img width="300" src="https://user-images.githubusercontent.com/88594066/209876960-a76f4e5f-c5bd-40f0-9520-1ab2b72e18d0.png" alt="Project 1 Screenshot 2" /></td>
     </tr>
     <tr>
-      <td><img align="center" src="https://user-images.githubusercontent.com/88594066/209877005-6a76bb27-6975-486f-a16a-dbe51df504f2.png" alt="Project 1 Screenshot 3" /></td>
-      <td><img align="center" src="https://user-images.githubusercontent.com/88594066/209877026-6ab7361c-52c3-4911-8432-23f93b0241f5.png" alt="Project 1 Screenshot 4" /></td>
+      <td><img width="300" src="https://user-images.githubusercontent.com/88594066/209877005-6a76bb27-6975-486f-a16a-dbe51df504f2.png" alt="Project 1 Screenshot 3" /></td>
+      <td><img width="300" src="https://user-images.githubusercontent.com/88594066/209877026-6ab7361c-52c3-4911-8432-23f93b0241f5.png" alt="Project 1 Screenshot 4" /></td>
     </tr>
     <tr>
-      <td><img align="center" src="https://github.com/rasmuslos/AmpFin/blob/main/Screenshots/Library%20(iOS).png?raw=true" alt="Project 2 Library Screenshot" /></td>
-      <td><img align="center" src="https://github.com/rasmuslos/AmpFin/blob/main/Screenshots/Album%20(iOS).png?raw=true" alt="Project 2 Album Screenshot" /></td>
+      <td><img width="300" src="https://github.com/rasmuslos/AmpFin/blob/main/Screenshots/Library%20(iOS).png?raw=true" alt="Project 2 Library Screenshot" /></td>
+      <td><img width="300" src="https://github.com/rasmuslos/AmpFin/blob/main/Screenshots/Album%20(iOS).png?raw=true" alt="Project 2 Album Screenshot" /></td>
     </tr>
     <tr>
-      <td><img align="center" src="https://github.com/rasmuslos/AmpFin/blob/main/Screenshots/Player%20(iOS).png" alt="Project 2 Player Screenshot" /></td>
-      <td><img align="center" src="https://github.com/rasmuslos/AmpFin/blob/main/Screenshots/Lyrics%20(iOS).png?raw=true" alt="Project 2 Lyrics Screenshot" /></td>
+      <td><img width="300" src="https://github.com/rasmuslos/AmpFin/blob/main/Screenshots/Player%20(iOS).png" alt="Project 2 Player Screenshot" /></td>
+      <td><img width="300" src="https://github.com/rasmuslos/AmpFin/blob/main/Screenshots/Lyrics%20(iOS).png?raw=true" alt="Project 2 Lyrics Screenshot" /></td>
     </tr>
-  <tr>
-    <td>
-      <img />
-    </td>
-    <td>
-      <img align="center" src="assets/img/5.png" alt="clavius4" />
-    </td>
-  </tr>
-
-  <!-- Existing work samples -->
-  <tr>
-    <td><img align="center" src="assets/img/1.png" alt="clavius4" /></td>
-    <td><img align="center" src="assets/img/2.png" alt="clavius4" /></td>
-  </tr>
-  <tr>
-    <td><img align="center" src="assets/img/3.png" alt="clavius4" /></td>
-    <td><img align="center" src="assets/img/4.png" alt="clavius4" /></td>
-  </tr>
-  <tr>
-    <td><img align="center" src="assets/img/5.png" alt="clavius4" /></td>
-    <td><img align="center" src="assets/img/6.png" alt="clavius4" /></td>
-  </tr>
-  <tr>
-    <td><img align="center" src="assets/img/7.png" alt="clavius4" /></td>
-    <td><img align="center" src="assets/img/8.png" alt="clavius4" /></td>
-  </tr>
-</table>
-
-</div>
-## 📈 GitHub Stats & Trophies
-<div align="center">
-  
-![GitHub Streak](https://streak-stats.demolab.com?user=Clavius4&theme=tokyonight)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Clavius4&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Clavius4&layout=compact&theme=tokyonight)
-![trophy](https://github-profile-trophy.vercel.app/?username=Clavius4&theme=tokyonight)
-  
+  </table>
 </div>
 
-
----
+<br>
 
 ## 🏅 Achievements
 - 🚀 Built Tanzanite OS 🇹🇿 — a localized Linux-based OS for Tanzania.
@@ -260,3 +224,32 @@
 - 💡 Launched a USSD microservice stack with Spring Boot, Django & NodeJS.
 
 ---
+
+## 📊 Popular Repositories
+
+<div align="center">
+  
+  <a href="https://github.com/Clavius4/TaskList-App">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Clavius4&repo=TaskList-App&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/Clavius4/CIVE-LIBRARY">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Clavius4&repo=CIVE-LIBRARY&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/Clavius4/Mental-Health-App">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Clavius4&repo=Mental-Health-App&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/Clavius4/VulnLab">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Clavius4&repo=VulnLab&theme=tokyonight" />
+  </a>
+  
+</div>
+
+---
+
+<div align="center">
+  
+  ![Visitor Count](https://komarev.com/ghpvc/?username=Clavius4&color=blue&style=for-the-badge)
+  
+  <p>Thank you for visiting my profile! Feel free to connect with me on any of the platforms above.</p>
+  
+</div>
